@@ -1,4 +1,5 @@
 # Arduino Interaktiv Workshop
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/berndverhofstadt/ArduinoInteraktiv?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The Arduino Interaktiv workshop was organised in June 2014 at Fachhochschule St. Pölten (St. Pölten University of Applied Sciences) in Austria.
 http://www.animationsummer.at/arduino-interaktiv/
 
